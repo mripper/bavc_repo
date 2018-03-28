@@ -1,0 +1,29 @@
+body {
+  background-color: #F8EFBA
+}
+
+h1 {
+  width:  900px;
+  height: 100px;
+  background-color: #F97F51;
+  margin: 20px auto;
+  border-radius: 150px
+}
+#body{
+width:  900px;
+height: 500px;
+background-color: #25CCF7;
+margin: 20px auto;
+border-radius: 100px;
+}
+
+#footer{
+  width:  900px;
+  height: 250px;
+  background-color: #CAD3C8;
+  margin: 20px auto;
+  border-radius: 150px;
+}
+h1 {
+
+}
